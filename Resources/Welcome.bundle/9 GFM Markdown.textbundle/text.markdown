@@ -37,7 +37,7 @@ public static func getHighlighter() -> Highlightr? {
         return instance
     }
     
-    guard let highlightr = Highlightr() else {
+    guard let highlightr = Highlighter() else {
         return nil
     }
     
