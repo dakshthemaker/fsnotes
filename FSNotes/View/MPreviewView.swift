@@ -7,7 +7,7 @@
 //
 
 import WebKit
-import Highlightr
+// import Highlightr
 import SSZipArchive
 
 #if os(iOS)

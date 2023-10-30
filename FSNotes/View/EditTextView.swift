@@ -7,7 +7,7 @@
 //
 
 import Cocoa
-import Highlightr
+// import Highlightr
 import Carbon.HIToolbox
 import FSNotesCore_macOS
 

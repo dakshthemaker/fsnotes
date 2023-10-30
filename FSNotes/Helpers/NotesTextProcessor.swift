@@ -6,7 +6,7 @@
 //  Copyright © 2017 Oleksandr Glushchenko. All rights reserved.
 //
 
-import Highlightr
+// import Highlightr
 
 #if os(OSX)
     import Cocoa
